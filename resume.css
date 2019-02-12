@@ -1,0 +1,29 @@
+body
+{
+	background: #F5B7B1;
+}
+.maindiv{
+	background: lavender;
+	justify-content: space-around;
+	display: flex;
+}
+.leftdiv{
+background: bisque;
+height:35%;
+width:50%;
+margin:2%;
+border-radius: 7%;
+box-shadow: 2px 2px 2px 2px;
+text-align: center;
+}
+.rightdiv{
+	background: bisque;
+	height:55%;
+	width:20%;
+	margin:2%;
+	padding:1%;
+    border-radius: 7%;
+    box-shadow: 2px 2px 2px 2px;
+
+
+}
